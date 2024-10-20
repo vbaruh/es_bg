@@ -1,0 +1,35 @@
+# syntax=docker/dockerfile:1
+
+FROM python:3.10-slim-bookworm AS build_venv
+
+# install uv
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
+
+RUN mkdir /app
+
+RUN \
+    --mount=type=bind,src=./,target=/tmp/src \
+    cp /tmp/src/uv.lock /tmp/src/pyproject.toml /tmp/src/README.md /app \
+    && cd /app \
+    && uv sync --no-dev --no-install-project
+
+FROM python:3.10-slim-bookworm
+
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends curl unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+
+RUN mkdir /app
+
+COPY --from=build_venv /app/.venv /app/.venv
+
+COPY src/rxconfig.py /app/
+COPY src/assets/ /app/assets/
+COPY src/espanol/ /app/espanol/
+
+WORKDIR /app
+ENV PATH=/app/.venv/bin:$PATH
+
+ENTRYPOINT ["reflex", "run", "--env", "prod", "--backend-only", "--loglevel", "debug" ]

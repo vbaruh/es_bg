@@ -1,0 +1,15 @@
+services:
+  backend:
+    image: espanol_backend:latest
+    ports:
+     - 8000:8000
+    # depends_on:
+    #  - redis
+  frontend:
+    image: espanol_frontend:latest
+    ports:
+      - 3000:3000
+    depends_on:
+      - backend
+  # redis:
+  #   image: redis

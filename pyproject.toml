@@ -8,9 +8,6 @@ dependencies = [
     "reflex>=0.6.3",
 ]
 
-[project.scripts]
-hello = "espanol:hello"
-
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
