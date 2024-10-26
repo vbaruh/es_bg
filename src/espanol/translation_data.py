@@ -26,8 +26,9 @@ def load_csv_file(csv_file: str) -> Generator[WordTranslation, None, None]:
             if len(line) != 2:
                 raise ValueError(f'The following line does not contain 2 columns: {line}')
 
-            spanish = line[0]
+            spanish = line[0].strip()
             bg = line[1].split(';')
+            bg = [item.strip() for item in bg]
 
             yield es_bg(spanish, tuple(bg))
 

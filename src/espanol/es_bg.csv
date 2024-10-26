@@ -1,9 +1,9 @@
 es,bg
 hola,здравей
 mañana,утре
-noche,нощ;вечер
-mochila,раница
-cebolla,лук
+la noche,нощ;вечер
+la mochila,раница
+la cebolla,лук
 uno,едно
 dos,две
 tres,три
@@ -20,4 +20,333 @@ la calle,улица
 el cine,кино
 la quimica,химия
 la universidad,университет
-el universo,вселена
+el Universo,Вселена
+el día, ден
+el/la científico/a,учен
+el cocinero,готвач
+la cocinera,готвачка
+el/la estudiante,ученик;студент
+el diseñador de moda,дизайнер на облекло
+la diseñadora de moda,дизайнерка на облекло
+el/la peridoista,журналист
+el/la profesor/a,професор;преподавател
+el traductor,предводач
+la traductora,предводачка
+el/la enfermero/a,медицинска сестра
+el camarero,сервитьор
+el secretario,секретар
+la camarera,сервитьорка
+la secretariа,секретарка
+el/la deportista,спортист
+el/la comercial,търговец
+la profesione,професия
+la nacionalidad,националност
+pronombre,местоимение
+masculino,мъжки
+feminino,женски
+la palabra,дума
+el diccionario,речник
+la lengua,език
+la letra,буква
+el alfabeto,азбука
+el abecedario,азбука
+el saludo,поздрав
+el número,номер
+la despedida,сбогуване
+el jersey,пуловер
+la calle,улица
+el coche,кола
+el cine,кино
+la quimica,химия
+el zapato,обувка
+el zorro,лисица
+la granda,нар
+el higo,смокиня
+la pagina,страница
+el gírasol,слънчоглед
+la jirafa,жираф
+la jarra,кана
+la higuera,смокиново дърво
+la guitarra,китара
+el pingüino,пингвин
+la vergüenza,срам
+el helado,сладолед
+la almohada,възглавница
+la zanahoria,морков
+el extranjero,чужденец
+la extranjera,чужденка
+la guerra,война
+la máquina,машина
+la semilla,семка
+la cerveza,бира
+la cita, любовна среща;цитат
+quero,искам;обичам
+la tarjeta,банкова карта
+la tarjeta postal, пощенска картичка
+el bolso, дамска чанта
+la bolsa, пазарска чанта
+éxito,успех
+еl puerro,праз
+la pera, круша
+la chaqueta,яке;сако
+la chupa, кожено яке
+la mesa, маса
+la casa,къща
+la ventana, прозорец
+la puerta, врата
+la silla, стол
+la cotina, завеса
+el cuarto, стая
+el cuarto de naño, баня
+el servicio, тоалетна
+la taza, чаша за чай
+el vaso, стъклена чаша
+la copa, чаша на столче;купа;коктейл
+el vino tinto, червено вино
+el vino negro, червено вино
+el vino blanco, бяло вино
+el vino rossado, розе
+la leche, мляко
+el té, чай
+verde, зелено
+rojo, червено
+la infusióne,билков чай
+la manzanilla,лайка
+el café, кафе
+el chocolate,шоколад
+el caramelo,бонбон за смучене
+el bonón de chocolate, шоколадов бонбон
+caliente,горещо
+el libro,книга
+el kiwi,киви
+el agua,вода
+la macedonia,плодова салата
+el merengue,танц: десерт целувка
+el beso, целувка
+la salud, здраве
+el padre, баща
+la madre, майка
+la televisión,телевизия;телевизор
+la construcción,строеж
+la satisfacción, удовлетворение;удоволствие
+el/la estadounidense, американец;американка
+el norteamericano, американец
+la norteamericana, американка
+Estato Unidos, САЩ
+Mexico,Мексико
+el mexicano, мексиканец
+la mexicana, мексиканка
+Argentina,Аржентина
+el argentino,аржентинец
+la argentina,аржентикна
+Italia, Италия
+el italiano, италианец
+la italiana, италианка
+Suiza,Швейцария
+la suiza,швейцарка
+el suizo,швейцарец
+Suecia,Швеция
+el sueco,швед
+la sueca, шведка
+Egipto,Египет
+el egipcio, египтянин
+la egipcia, египтянка
+Inglaterra,Англия
+el inglés,англичанин
+la inglesa,англичанка
+Francia,Франция
+el francés,французин
+la francesa,французойка
+Japon,Япония
+el japonés,японец
+la japonesa, японка
+Holanda, Холандия
+el holandés,холандец
+la holandesa, холандка
+Portugal,Португалия
+el portugués,португалец
+la portuguesa,протугалка
+Alemania,Германия
+el alemán,германец
+la alemána, германка
+España,Испания
+El Reino de España, Кралство Испания
+el español, испанец
+la española, испанка
+el gato,котарак
+la gata,котка
+¡Jesús!,Наздраве!
+Canadá,Канада
+Paquistán,Пакистан
+Irán,Иран
+Marruecos,Мароко
+Dinamarca,Дания
+Belgica,Белгия
+Polonia,Полша
+el polaco, поляк
+la polaca, полякиня
+Turquía,Турция
+Rusia,Русия
+Grecia,Гърция
+el griego, грък
+la girega, гръкиня
+Colombia, Колумбия
+el colombiano, колумбиец
+la colombiana, колумбийка
+Chile,Чили
+el chileno,чилиец
+la chilena,чилийка
+Perú,Перу
+el peruano,перуанец
+la peruana,перуанка
+la regla, правило
+güiqui,уиски
+paella,паеля
+torilla,тортиля
+el género,род
+Gran Bretaña,Великобритания
+El Reino Unido,Обединеното кралство
+la yerba,билка
+Hispanoamerica,Латинска Америка
+Londres,Лондон
+Mallorca,Майорка
+Nicaragua,Никарагуа
+Bogotá,Богота
+Quito,Кито
+quito,свободен;освободен от задължения
+Caracas,Каракас
+Roma,Рим
+Navarra,Навара
+Sevilla,Севиля
+Uruguay,Уругвай
+Valencia,Валенсия
+Oaxaca,Оахака
+Texas,Тексас
+La Paz, Ла Пас
+República Checa, Чехия
+el checo,чех
+la checa, чехкиня
+el turco, турчин
+la turca, туркиня
+el ruso, руснак
+la rusa, рускиня
+China,Китай
+el chino,китаец
+la china,китайка
+el/la belga, блгиец;белгийка
+el/la nicaragüense,жител на Никарагуа
+el/la canadiense,канадаец;канадка
+Australia,Австралия
+el australiano,австралиец
+la australiana,австралийка
+el danés,датчанин
+la danesa,датчанка
+el/la paquistaní,пакистанец;пакистанка
+el/la iraní,иранец;иранка
+el/la marroquí,мароканец;мароканка
+el salvadoreño,салвадорец
+la salvadoreña,жена от Салвадор
+el brasileño, бразилец
+la brasileña, бразилка
+Brasil,Бразилия
+el/la panadero/a,хлебар
+el pan,хляб
+el/la fruero/a,зарзаватчия
+el/la carnicero/a,месар
+el/la futbolista, футболист
+el/la cartero/a, пощальон
+el/la bombero/a,пожарникар
+doce,дванадесет
+la cinta, касетка
+el reloj,часовник
+el mechero,запалка
+la cama,легло
+el teléfono,телефон
+la luna, луна
+el tenedor,вилица
+la cereza,череша
+el boligrafo,химикалка
+el sol,слънце
+la llave,ключ
+la cámera,камера;фотоапарт
+la flor,цвете
+el/la mar,море
+el/la azúcar,захар
+el/la pianista,пианист
+Liabno,Ливан
+el libanés,ливанец
+la libanesa,ливанка
+el ñoño,лигльо
+Ginebra,Женева
+el gin;la ginebra,джин
+la cuchara,лъжица
+el cuchillo, нож
+la pluma,писалка;перо
+el lápiz,молив
+el cielo,небе
+la estrella,звезда
+la bicicleta,велосипед
+el cumpeaños,рожден ден
+la paragua,чадър
+el radiador,радиатор
+el cuaderno, тетрадка
+el hospital, болница
+el portátil,лаптоп
+el ordenador,компютър
+el águila,орел
+el hada, фея
+él,той
+el,определителен член за мъжки род
+qué,какво
+que,който
+dónde,къде
+donde,където
+cómo,как
+como,както
+у,u
+en,във
+de,от
+para,за
+pero,но
+con,със
+sin,без
+ser,съм
+уо,аз
+tú,ти
+ella,тя
+usted,Вие единствено число
+ustedes, Вие множествено число
+nostros,ние
+vostros,вие
+ellos,те
+el/la maestro/a,начален учител
+el/la profesor/a, преподавател;професор
+la fruta,плод
+la carne,месо
+el/la funcionario/a, държавен служител
+el/la bibliotecario/a,библиотекар
+el/la abogado/a,адвокат
+el/la consultante, консултант
+el/la consejal,общински съветник
+el/la consejero/a,съветник
+la azafata,стюардеса
+el aiudante,стюард
+el/la músico/a,музикант
+la música,музика
+el/la laborante,лаборант
+el/la contable,счетоводител
+la contabilidad,счетоводство
+el/la programista,програмист
+el/la informatico/a,специалист по информационни технологии
+el/la pintor/a, художник
+el/la peluquero/a,фризьор
+el/la ingeniero/a,инженер
+el poeta,поет
+la poetisa,поетеса
+el actor,актьор
+la actriz,актриса
+el/la cantante,певец
+el señor de la limpienza,чистач
+la señora de la limpienza,чистачка
+el señor,господин
+la señora, госпожа
